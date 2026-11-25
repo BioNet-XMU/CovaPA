@@ -1,0 +1,646 @@
+Cohort,KEGG_pathway,Pathway_name,KEGG_compound,Applied_weight,Tested_family_size
+CRC,map00010,Glycolysis / Gluconeogenesis,C00022,0.045454545454545456,42
+CRC,map00010,Glycolysis / Gluconeogenesis,C00074,0.2,42
+CRC,map00010,Glycolysis / Gluconeogenesis,C00036,0.14285714285714285,42
+CRC,map00010,Glycolysis / Gluconeogenesis,C00186,0.25,42
+CRC,map00010,Glycolysis / Gluconeogenesis,C00221,0.5,42
+CRC,map00010,Glycolysis / Gluconeogenesis,C00354,0.25,42
+CRC,map00010,Glycolysis / Gluconeogenesis,C00118,0.16666666666666666,42
+CRC,map00010,Glycolysis / Gluconeogenesis,C00111,0.1111111111111111,42
+CRC,map00020,Citrate cycle (TCA cycle),C00042,0.09090909090909091,42
+CRC,map00020,Citrate cycle (TCA cycle),C00022,0.045454545454545456,42
+CRC,map00020,Citrate cycle (TCA cycle),C00074,0.2,42
+CRC,map00020,Citrate cycle (TCA cycle),C00036,0.14285714285714285,42
+CRC,map00020,Citrate cycle (TCA cycle),C00149,0.3333333333333333,42
+CRC,map00020,Citrate cycle (TCA cycle),C00122,0.125,42
+CRC,map00020,Citrate cycle (TCA cycle),C00026,0.08333333333333333,42
+CRC,map00030,Pentose phosphate pathway,C00022,0.045454545454545456,42
+CRC,map00030,Pentose phosphate pathway,C00258,0.25,42
+CRC,map00030,Pentose phosphate pathway,C00221,0.5,42
+CRC,map00030,Pentose phosphate pathway,C00354,0.25,42
+CRC,map00030,Pentose phosphate pathway,C00279,0.3333333333333333,42
+CRC,map00030,Pentose phosphate pathway,C00118,0.16666666666666666,42
+CRC,map00040,Pentose and glucuronate interconversions,C00022,0.045454545454545456,42
+CRC,map00040,Pentose and glucuronate interconversions,C02426,1.0,42
+CRC,map00040,Pentose and glucuronate interconversions,C00111,0.1111111111111111,42
+CRC,map00040,Pentose and glucuronate interconversions,C00026,0.08333333333333333,42
+CRC,map00051,Fructose and mannose metabolism,C00794,0.5,42
+CRC,map00051,Fructose and mannose metabolism,C00186,0.25,42
+CRC,map00051,Fructose and mannose metabolism,C00665,1.0,42
+CRC,map00051,Fructose and mannose metabolism,C00354,0.25,42
+CRC,map00051,Fructose and mannose metabolism,C00118,0.16666666666666666,42
+CRC,map00051,Fructose and mannose metabolism,C00111,0.1111111111111111,42
+CRC,map00052,Galactose metabolism,C00794,0.5,42
+CRC,map00052,Galactose metabolism,C00118,0.16666666666666666,42
+CRC,map00052,Galactose metabolism,C00111,0.1111111111111111,42
+CRC,map00120,Primary bile acid biosynthesis,C00245,0.3333333333333333,42
+CRC,map00120,Primary bile acid biosynthesis,C01921,1.0,42
+CRC,map00120,Primary bile acid biosynthesis,C05466,1.0,42
+CRC,map00120,Primary bile acid biosynthesis,C00037,0.08333333333333333,42
+CRC,map00220,Arginine biosynthesis,C00077,0.25,42
+CRC,map00220,Arginine biosynthesis,C00064,0.14285714285714285,42
+CRC,map00220,Arginine biosynthesis,C00025,0.09090909090909091,42
+CRC,map00220,Arginine biosynthesis,C00122,0.125,42
+CRC,map00220,Arginine biosynthesis,C00327,1.0,42
+CRC,map00220,Arginine biosynthesis,C00049,0.1,42
+CRC,map00220,Arginine biosynthesis,C00062,0.3333333333333333,42
+CRC,map00220,Arginine biosynthesis,C00026,0.08333333333333333,42
+CRC,map00230,Purine metabolism,C01762,1.0,42
+CRC,map00230,Purine metabolism,C00385,1.0,42
+CRC,map00230,Purine metabolism,C00366,1.0,42
+CRC,map00230,Purine metabolism,C00209,0.5,42
+CRC,map00230,Purine metabolism,C00294,1.0,42
+CRC,map00230,Purine metabolism,C00130,1.0,42
+CRC,map00230,Purine metabolism,C00262,1.0,42
+CRC,map00230,Purine metabolism,C00387,1.0,42
+CRC,map00230,Purine metabolism,C00037,0.08333333333333333,42
+CRC,map00230,Purine metabolism,C00064,0.14285714285714285,42
+CRC,map00230,Purine metabolism,C00020,1.0,42
+CRC,map00230,Purine metabolism,C03794,0.5,42
+CRC,map00230,Purine metabolism,C00212,0.5,42
+CRC,map00240,Pyrimidine metabolism,C00299,1.0,42
+CRC,map00240,Pyrimidine metabolism,C02170,0.3333333333333333,42
+CRC,map00240,Pyrimidine metabolism,C00295,1.0,42
+CRC,map00240,Pyrimidine metabolism,C00064,0.14285714285714285,42
+CRC,map00240,Pyrimidine metabolism,C00364,0.5,42
+CRC,map00240,Pyrimidine metabolism,C00380,1.0,42
+CRC,map00240,Pyrimidine metabolism,C00475,1.0,42
+CRC,map00240,Pyrimidine metabolism,C00526,1.0,42
+CRC,map00250,"Alanine, aspartate and glutamate metabolism",C00042,0.09090909090909091,42
+CRC,map00250,"Alanine, aspartate and glutamate metabolism",C00022,0.045454545454545456,42
+CRC,map00250,"Alanine, aspartate and glutamate metabolism",C00036,0.14285714285714285,42
+CRC,map00250,"Alanine, aspartate and glutamate metabolism",C00064,0.14285714285714285,42
+CRC,map00250,"Alanine, aspartate and glutamate metabolism",C00025,0.09090909090909091,42
+CRC,map00250,"Alanine, aspartate and glutamate metabolism",C00334,0.2,42
+CRC,map00250,"Alanine, aspartate and glutamate metabolism",C00122,0.125,42
+CRC,map00250,"Alanine, aspartate and glutamate metabolism",C00049,0.1,42
+CRC,map00250,"Alanine, aspartate and glutamate metabolism",C00152,1.0,42
+CRC,map00250,"Alanine, aspartate and glutamate metabolism",C00026,0.08333333333333333,42
+CRC,map00250,"Alanine, aspartate and glutamate metabolism",C00041,0.25,42
+CRC,map00250,"Alanine, aspartate and glutamate metabolism",C03794,0.5,42
+CRC,map00260,"Glycine, serine and threonine metabolism",C00078,0.3333333333333333,42
+CRC,map00260,"Glycine, serine and threonine metabolism",C00188,0.25,42
+CRC,map00260,"Glycine, serine and threonine metabolism",C00065,0.14285714285714285,42
+CRC,map00260,"Glycine, serine and threonine metabolism",C00022,0.045454545454545456,42
+CRC,map00260,"Glycine, serine and threonine metabolism",C00430,0.5,42
+CRC,map00260,"Glycine, serine and threonine metabolism",C00581,0.5,42
+CRC,map00260,"Glycine, serine and threonine metabolism",C00037,0.08333333333333333,42
+CRC,map00260,"Glycine, serine and threonine metabolism",C00258,0.25,42
+CRC,map00260,"Glycine, serine and threonine metabolism",C01026,0.5,42
+CRC,map00260,"Glycine, serine and threonine metabolism",C02291,0.3333333333333333,42
+CRC,map00260,"Glycine, serine and threonine metabolism",C00300,0.5,42
+CRC,map00260,"Glycine, serine and threonine metabolism",C00114,0.3333333333333333,42
+CRC,map00260,"Glycine, serine and threonine metabolism",C00719,0.5,42
+CRC,map00260,"Glycine, serine and threonine metabolism",C00049,0.1,42
+CRC,map00270,Cysteine and methionine metabolism,C00065,0.14285714285714285,42
+CRC,map00270,Cysteine and methionine metabolism,C00051,0.5,42
+CRC,map00270,Cysteine and methionine metabolism,C00022,0.045454545454545456,42
+CRC,map00270,Cysteine and methionine metabolism,C00073,0.25,42
+CRC,map00270,Cysteine and methionine metabolism,C02291,0.3333333333333333,42
+CRC,map00270,Cysteine and methionine metabolism,C00049,0.1,42
+CRC,map00270,Cysteine and methionine metabolism,C00041,0.25,42
+CRC,map00280,"Valine, leucine and isoleucine degradation",C00183,0.3333333333333333,42
+CRC,map00280,"Valine, leucine and isoleucine degradation",C02170,0.3333333333333333,42
+CRC,map00280,"Valine, leucine and isoleucine degradation",C00123,0.5,42
+CRC,map00280,"Valine, leucine and isoleucine degradation",C00407,0.5,42
+CRC,map00280,"Valine, leucine and isoleucine degradation",C03284,1.0,42
+CRC,map00280,"Valine, leucine and isoleucine degradation",C00164,0.25,42
+CRC,map00290,"Valine, leucine and isoleucine biosynthesis",C00183,0.3333333333333333,42
+CRC,map00290,"Valine, leucine and isoleucine biosynthesis",C00188,0.25,42
+CRC,map00290,"Valine, leucine and isoleucine biosynthesis",C00022,0.045454545454545456,42
+CRC,map00290,"Valine, leucine and isoleucine biosynthesis",C00123,0.5,42
+CRC,map00290,"Valine, leucine and isoleucine biosynthesis",C00407,0.5,42
+CRC,map00290,"Valine, leucine and isoleucine biosynthesis",C02226,0.5,42
+CRC,map00310,Lysine degradation,C00042,0.09090909090909091,42
+CRC,map00310,Lysine degradation,C00047,0.5,42
+CRC,map00310,Lysine degradation,C00037,0.08333333333333333,42
+CRC,map00310,Lysine degradation,C00489,1.0,42
+CRC,map00310,Lysine degradation,C00026,0.08333333333333333,42
+CRC,map00310,Lysine degradation,C00164,0.25,42
+CRC,map00310,Lysine degradation,C00956,1.0,42
+CRC,map00330,Arginine and proline metabolism,C00022,0.045454545454545456,42
+CRC,map00330,Arginine and proline metabolism,C00148,0.5,42
+CRC,map00330,Arginine and proline metabolism,C00077,0.25,42
+CRC,map00330,Arginine and proline metabolism,C01157,0.5,42
+CRC,map00330,Arginine and proline metabolism,C00581,0.5,42
+CRC,map00330,Arginine and proline metabolism,C00025,0.09090909090909091,42
+CRC,map00330,Arginine and proline metabolism,C00334,0.2,42
+CRC,map00330,Arginine and proline metabolism,C00791,1.0,42
+CRC,map00330,Arginine and proline metabolism,C00300,0.5,42
+CRC,map00330,Arginine and proline metabolism,C00062,0.3333333333333333,42
+CRC,map00340,Histidine metabolism,C00135,0.3333333333333333,42
+CRC,map00340,Histidine metabolism,C00025,0.09090909090909091,42
+CRC,map00340,Histidine metabolism,C00049,0.1,42
+CRC,map00340,Histidine metabolism,C00026,0.08333333333333333,42
+CRC,map00340,Histidine metabolism,C05127,1.0,42
+CRC,map00350,Tyrosine metabolism,C00082,0.25,42
+CRC,map00350,Tyrosine metabolism,C00042,0.09090909090909091,42
+CRC,map00350,Tyrosine metabolism,C00022,0.045454545454545456,42
+CRC,map00350,Tyrosine metabolism,C01384,0.3333333333333333,42
+CRC,map00350,Tyrosine metabolism,C05582,1.0,42
+CRC,map00350,Tyrosine metabolism,C00544,1.0,42
+CRC,map00350,Tyrosine metabolism,C00122,0.125,42
+CRC,map00350,Tyrosine metabolism,C00788,1.0,42
+CRC,map00350,Tyrosine metabolism,C00164,0.25,42
+CRC,map00360,Phenylalanine metabolism,C00082,0.25,42
+CRC,map00360,Phenylalanine metabolism,C00042,0.09090909090909091,42
+CRC,map00360,Phenylalanine metabolism,C00022,0.045454545454545456,42
+CRC,map00360,Phenylalanine metabolism,C00079,0.3333333333333333,42
+CRC,map00360,Phenylalanine metabolism,C00122,0.125,42
+CRC,map00380,Tryptophan metabolism,C02470,1.0,42
+CRC,map00380,Tryptophan metabolism,C00078,0.3333333333333333,42
+CRC,map00380,Tryptophan metabolism,C01717,1.0,42
+CRC,map00380,Tryptophan metabolism,C00108,0.5,42
+CRC,map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",C00082,0.25,42
+CRC,map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",C00078,0.3333333333333333,42
+CRC,map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",C00493,1.0,42
+CRC,map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",C00079,0.3333333333333333,42
+CRC,map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",C00074,0.2,42
+CRC,map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",C00354,0.25,42
+CRC,map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",C00279,0.3333333333333333,42
+CRC,map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",C00108,0.5,42
+CRC,map00410,beta-Alanine metabolism,C00864,0.5,42
+CRC,map00410,beta-Alanine metabolism,C00135,0.3333333333333333,42
+CRC,map00410,beta-Alanine metabolism,C00334,0.2,42
+CRC,map00410,beta-Alanine metabolism,C00049,0.1,42
+CRC,map00430,Taurine and hypotaurine metabolism,C00245,0.3333333333333333,42
+CRC,map00430,Taurine and hypotaurine metabolism,C00022,0.045454545454545456,42
+CRC,map00430,Taurine and hypotaurine metabolism,C00025,0.09090909090909091,42
+CRC,map00430,Taurine and hypotaurine metabolism,C00026,0.08333333333333333,42
+CRC,map00430,Taurine and hypotaurine metabolism,C00041,0.25,42
+CRC,map00440,Phosphonate and phosphinate metabolism,C00022,0.045454545454545456,42
+CRC,map00440,Phosphonate and phosphinate metabolism,C00074,0.2,42
+CRC,map00440,Phosphonate and phosphinate metabolism,C00037,0.08333333333333333,42
+CRC,map00470,D-Amino acid metabolism,C00188,0.25,42
+CRC,map00470,D-Amino acid metabolism,C00065,0.14285714285714285,42
+CRC,map00470,D-Amino acid metabolism,C00022,0.045454545454545456,42
+CRC,map00470,D-Amino acid metabolism,C00148,0.5,42
+CRC,map00470,D-Amino acid metabolism,C00079,0.3333333333333333,42
+CRC,map00470,D-Amino acid metabolism,C00036,0.14285714285714285,42
+CRC,map00470,D-Amino acid metabolism,C00077,0.25,42
+CRC,map00470,D-Amino acid metabolism,C00073,0.25,42
+CRC,map00470,D-Amino acid metabolism,C00047,0.5,42
+CRC,map00470,D-Amino acid metabolism,C01157,0.5,42
+CRC,map00470,D-Amino acid metabolism,C00135,0.3333333333333333,42
+CRC,map00470,D-Amino acid metabolism,C00037,0.08333333333333333,42
+CRC,map00470,D-Amino acid metabolism,C00064,0.14285714285714285,42
+CRC,map00470,D-Amino acid metabolism,C00025,0.09090909090909091,42
+CRC,map00470,D-Amino acid metabolism,C00049,0.1,42
+CRC,map00470,D-Amino acid metabolism,C00062,0.3333333333333333,42
+CRC,map00470,D-Amino acid metabolism,C00026,0.08333333333333333,42
+CRC,map00470,D-Amino acid metabolism,C00041,0.25,42
+CRC,map00480,Glutathione metabolism,C00051,0.5,42
+CRC,map00480,Glutathione metabolism,C01879,1.0,42
+CRC,map00480,Glutathione metabolism,C00077,0.25,42
+CRC,map00480,Glutathione metabolism,C00037,0.08333333333333333,42
+CRC,map00480,Glutathione metabolism,C00025,0.09090909090909091,42
+CRC,map00561,Glycerolipid metabolism,C00093,0.5,42
+CRC,map00561,Glycerolipid metabolism,C00258,0.25,42
+CRC,map00561,Glycerolipid metabolism,C00111,0.1111111111111111,42
+CRC,map00564,Glycerophospholipid metabolism,C00065,0.14285714285714285,42
+CRC,map00564,Glycerophospholipid metabolism,C00093,0.5,42
+CRC,map00564,Glycerophospholipid metabolism,C00111,0.1111111111111111,42
+CRC,map00564,Glycerophospholipid metabolism,C00114,0.3333333333333333,42
+CRC,map00564,Glycerophospholipid metabolism,C01996,1.0,42
+CRC,map00620,Pyruvate metabolism,C00042,0.09090909090909091,42
+CRC,map00620,Pyruvate metabolism,C00022,0.045454545454545456,42
+CRC,map00620,Pyruvate metabolism,C00074,0.2,42
+CRC,map00620,Pyruvate metabolism,C00036,0.14285714285714285,42
+CRC,map00620,Pyruvate metabolism,C00149,0.3333333333333333,42
+CRC,map00620,Pyruvate metabolism,C00186,0.25,42
+CRC,map00620,Pyruvate metabolism,C00122,0.125,42
+CRC,map00630,Glyoxylate and dicarboxylate metabolism,C00042,0.09090909090909091,42
+CRC,map00630,Glyoxylate and dicarboxylate metabolism,C00065,0.14285714285714285,42
+CRC,map00630,Glyoxylate and dicarboxylate metabolism,C00022,0.045454545454545456,42
+CRC,map00630,Glyoxylate and dicarboxylate metabolism,C00036,0.14285714285714285,42
+CRC,map00630,Glyoxylate and dicarboxylate metabolism,C00209,0.5,42
+CRC,map00630,Glyoxylate and dicarboxylate metabolism,C00149,0.3333333333333333,42
+CRC,map00630,Glyoxylate and dicarboxylate metabolism,C00037,0.08333333333333333,42
+CRC,map00630,Glyoxylate and dicarboxylate metabolism,C00258,0.25,42
+CRC,map00630,Glyoxylate and dicarboxylate metabolism,C00064,0.14285714285714285,42
+CRC,map00630,Glyoxylate and dicarboxylate metabolism,C00025,0.09090909090909091,42
+CRC,map00630,Glyoxylate and dicarboxylate metabolism,C00111,0.1111111111111111,42
+CRC,map00630,Glyoxylate and dicarboxylate metabolism,C00049,0.1,42
+CRC,map00630,Glyoxylate and dicarboxylate metabolism,C00026,0.08333333333333333,42
+CRC,map00640,Propanoate metabolism,C00042,0.09090909090909091,42
+CRC,map00640,Propanoate metabolism,C02170,0.3333333333333333,42
+CRC,map00640,Propanoate metabolism,C00163,0.3333333333333333,42
+CRC,map00640,Propanoate metabolism,C00036,0.14285714285714285,42
+CRC,map00640,Propanoate metabolism,C00186,0.25,42
+CRC,map00640,Propanoate metabolism,C00111,0.1111111111111111,42
+CRC,map00650,Butanoate metabolism,C00042,0.09090909090909091,42
+CRC,map00650,Butanoate metabolism,C00022,0.045454545454545456,42
+CRC,map00650,Butanoate metabolism,C01089,1.0,42
+CRC,map00650,Butanoate metabolism,C01384,0.3333333333333333,42
+CRC,map00650,Butanoate metabolism,C00025,0.09090909090909091,42
+CRC,map00650,Butanoate metabolism,C00334,0.2,42
+CRC,map00650,Butanoate metabolism,C00122,0.125,42
+CRC,map00650,Butanoate metabolism,C00026,0.08333333333333333,42
+CRC,map00650,Butanoate metabolism,C00164,0.25,42
+CRC,map00660,C5-Branched dibasic acid metabolism,C00022,0.045454545454545456,42
+CRC,map00660,C5-Branched dibasic acid metabolism,C00025,0.09090909090909091,42
+CRC,map00660,C5-Branched dibasic acid metabolism,C02226,0.5,42
+CRC,map00660,C5-Branched dibasic acid metabolism,C00026,0.08333333333333333,42
+CRC,map00660,C5-Branched dibasic acid metabolism,C02341,1.0,42
+CRC,map00670,One carbon pool by folate,C00065,0.14285714285714285,42
+CRC,map00670,One carbon pool by folate,C00073,0.25,42
+CRC,map00670,One carbon pool by folate,C00037,0.08333333333333333,42
+CRC,map00670,One carbon pool by folate,C00364,0.5,42
+CRC,map00670,One carbon pool by folate,C01026,0.5,42
+CRC,map00670,One carbon pool by folate,C02291,0.3333333333333333,42
+CRC,map00670,One carbon pool by folate,C00114,0.3333333333333333,42
+CRC,map00670,One carbon pool by folate,C00719,0.5,42
+CRC,map00670,One carbon pool by folate,C00212,0.5,42
+CRC,map00730,Thiamine metabolism,C00082,0.25,42
+CRC,map00730,Thiamine metabolism,C00022,0.045454545454545456,42
+CRC,map00730,Thiamine metabolism,C00018,0.5,42
+CRC,map00730,Thiamine metabolism,C00037,0.08333333333333333,42
+CRC,map00730,Thiamine metabolism,C00118,0.16666666666666666,42
+CRC,map00750,Vitamin B6 metabolism,C00018,0.5,42
+CRC,map00750,Vitamin B6 metabolism,C00064,0.14285714285714285,42
+CRC,map00750,Vitamin B6 metabolism,C00279,0.3333333333333333,42
+CRC,map00750,Vitamin B6 metabolism,C00118,0.16666666666666666,42
+CRC,map00750,Vitamin B6 metabolism,C00847,1.0,42
+CRC,map00760,Nicotinate and nicotinamide metabolism,C00042,0.09090909090909091,42
+CRC,map00760,Nicotinate and nicotinamide metabolism,C00022,0.045454545454545456,42
+CRC,map00760,Nicotinate and nicotinamide metabolism,C00163,0.3333333333333333,42
+CRC,map00760,Nicotinate and nicotinamide metabolism,C00153,1.0,42
+CRC,map00760,Nicotinate and nicotinamide metabolism,C01384,0.3333333333333333,42
+CRC,map00760,Nicotinate and nicotinamide metabolism,C00334,0.2,42
+CRC,map00760,Nicotinate and nicotinamide metabolism,C00122,0.125,42
+CRC,map00760,Nicotinate and nicotinamide metabolism,C00111,0.1111111111111111,42
+CRC,map00760,Nicotinate and nicotinamide metabolism,C00049,0.1,42
+CRC,map00770,Pantothenate and CoA biosynthesis,C00183,0.3333333333333333,42
+CRC,map00770,Pantothenate and CoA biosynthesis,C00022,0.045454545454545456,42
+CRC,map00770,Pantothenate and CoA biosynthesis,C00864,0.5,42
+CRC,map00770,Pantothenate and CoA biosynthesis,C00049,0.1,42
+CRC,map00785,Lipoic acid metabolism,C00022,0.045454545454545456,42
+CRC,map00785,Lipoic acid metabolism,C00037,0.08333333333333333,42
+CRC,map00785,Lipoic acid metabolism,C00026,0.08333333333333333,42
+CRC,map00860,Porphyrin metabolism,C00188,0.25,42
+CRC,map00860,Porphyrin metabolism,C00430,0.5,42
+CRC,map00860,Porphyrin metabolism,C00037,0.08333333333333333,42
+CRC,map00860,Porphyrin metabolism,C00025,0.09090909090909091,42
+CRC,map00920,Sulfur metabolism,C00245,0.3333333333333333,42
+CRC,map00920,Sulfur metabolism,C00042,0.09090909090909091,42
+CRC,map00920,Sulfur metabolism,C00065,0.14285714285714285,42
+CRC,map00920,Sulfur metabolism,C00163,0.3333333333333333,42
+CRC,map00920,Sulfur metabolism,C00073,0.25,42
+T2DM,hsa00010,Glycolysis / Gluconeogenesis,C00022,0.047619047619047616,40
+T2DM,hsa00010,Glycolysis / Gluconeogenesis,C00031,0.25,40
+T2DM,hsa00010,Glycolysis / Gluconeogenesis,C00033,0.16666666666666666,40
+T2DM,hsa00010,Glycolysis / Gluconeogenesis,C00186,0.3333333333333333,40
+T2DM,hsa00020,Citrate cycle (TCA cycle),C00022,0.047619047619047616,40
+T2DM,hsa00020,Citrate cycle (TCA cycle),C00026,0.07692307692307693,40
+T2DM,hsa00020,Citrate cycle (TCA cycle),C00042,0.09090909090909091,40
+T2DM,hsa00020,Citrate cycle (TCA cycle),C00122,0.125,40
+T2DM,hsa00020,Citrate cycle (TCA cycle),C00149,0.3333333333333333,40
+T2DM,hsa00020,Citrate cycle (TCA cycle),C00158,0.3333333333333333,40
+T2DM,hsa00020,Citrate cycle (TCA cycle),C00417,0.3333333333333333,40
+T2DM,hsa00030,Pentose phosphate pathway,C00022,0.047619047619047616,40
+T2DM,hsa00030,Pentose phosphate pathway,C00031,0.25,40
+T2DM,hsa00030,Pentose phosphate pathway,C00121,1.0,40
+T2DM,hsa00030,Pentose phosphate pathway,C00257,1.0,40
+T2DM,hsa00030,Pentose phosphate pathway,C00258,0.3333333333333333,40
+T2DM,hsa00040,Pentose and glucuronate interconversions,C00022,0.047619047619047616,40
+T2DM,hsa00040,Pentose and glucuronate interconversions,C00026,0.07692307692307693,40
+T2DM,hsa00040,Pentose and glucuronate interconversions,C00191,0.3333333333333333,40
+T2DM,hsa00052,Galactose metabolism,C00031,0.25,40
+T2DM,hsa00052,Galactose metabolism,C00159,0.5,40
+T2DM,hsa00052,Galactose metabolism,C00984,0.5,40
+T2DM,hsa00053,Ascorbate and aldarate metabolism,C00022,0.047619047619047616,40
+T2DM,hsa00053,Ascorbate and aldarate metabolism,C00026,0.07692307692307693,40
+T2DM,hsa00053,Ascorbate and aldarate metabolism,C00072,0.5,40
+T2DM,hsa00053,Ascorbate and aldarate metabolism,C00191,0.3333333333333333,40
+T2DM,hsa00053,Ascorbate and aldarate metabolism,C00818,1.0,40
+T2DM,hsa00053,Ascorbate and aldarate metabolism,C00879,1.0,40
+T2DM,hsa00053,Ascorbate and aldarate metabolism,C01620,1.0,40
+T2DM,hsa00220,Arginine biosynthesis,C00025,0.09090909090909091,40
+T2DM,hsa00220,Arginine biosynthesis,C00026,0.07692307692307693,40
+T2DM,hsa00220,Arginine biosynthesis,C00049,0.1,40
+T2DM,hsa00220,Arginine biosynthesis,C00062,0.3333333333333333,40
+T2DM,hsa00220,Arginine biosynthesis,C00064,0.14285714285714285,40
+T2DM,hsa00220,Arginine biosynthesis,C00077,0.25,40
+T2DM,hsa00220,Arginine biosynthesis,C00122,0.125,40
+T2DM,hsa00220,Arginine biosynthesis,C00327,1.0,40
+T2DM,hsa00220,Arginine biosynthesis,C00437,1.0,40
+T2DM,hsa00220,Arginine biosynthesis,C00624,0.5,40
+T2DM,hsa00230,Purine metabolism,C00048,0.2,40
+T2DM,hsa00230,Purine metabolism,C00064,0.14285714285714285,40
+T2DM,hsa00230,Purine metabolism,C00209,0.5,40
+T2DM,hsa00230,Purine metabolism,C00262,1.0,40
+T2DM,hsa00230,Purine metabolism,C00366,1.0,40
+T2DM,hsa00230,Purine metabolism,C00385,1.0,40
+T2DM,hsa00240,Pyrimidine metabolism,C00064,0.14285714285714285,40
+T2DM,hsa00240,Pyrimidine metabolism,C00106,0.3333333333333333,40
+T2DM,hsa00240,Pyrimidine metabolism,C00299,1.0,40
+T2DM,hsa00240,Pyrimidine metabolism,C00380,1.0,40
+T2DM,hsa00240,Pyrimidine metabolism,C00383,0.5,40
+T2DM,hsa00240,Pyrimidine metabolism,C00475,1.0,40
+T2DM,hsa00240,Pyrimidine metabolism,C01013,0.25,40
+T2DM,hsa00240,Pyrimidine metabolism,C02067,1.0,40
+T2DM,hsa00240,Pyrimidine metabolism,C02170,0.3333333333333333,40
+T2DM,hsa00250,"Alanine, aspartate and glutamate metabolism",C00022,0.047619047619047616,40
+T2DM,hsa00250,"Alanine, aspartate and glutamate metabolism",C00025,0.09090909090909091,40
+T2DM,hsa00250,"Alanine, aspartate and glutamate metabolism",C00026,0.07692307692307693,40
+T2DM,hsa00250,"Alanine, aspartate and glutamate metabolism",C00041,0.25,40
+T2DM,hsa00250,"Alanine, aspartate and glutamate metabolism",C00042,0.09090909090909091,40
+T2DM,hsa00250,"Alanine, aspartate and glutamate metabolism",C00049,0.1,40
+T2DM,hsa00250,"Alanine, aspartate and glutamate metabolism",C00064,0.14285714285714285,40
+T2DM,hsa00250,"Alanine, aspartate and glutamate metabolism",C00122,0.125,40
+T2DM,hsa00250,"Alanine, aspartate and glutamate metabolism",C00152,1.0,40
+T2DM,hsa00250,"Alanine, aspartate and glutamate metabolism",C00158,0.3333333333333333,40
+T2DM,hsa00250,"Alanine, aspartate and glutamate metabolism",C00334,0.2,40
+T2DM,hsa00250,"Alanine, aspartate and glutamate metabolism",C01042,1.0,40
+T2DM,hsa00260,"Glycine, serine and threonine metabolism",C00022,0.047619047619047616,40
+T2DM,hsa00260,"Glycine, serine and threonine metabolism",C00048,0.2,40
+T2DM,hsa00260,"Glycine, serine and threonine metabolism",C00049,0.1,40
+T2DM,hsa00260,"Glycine, serine and threonine metabolism",C00065,0.125,40
+T2DM,hsa00260,"Glycine, serine and threonine metabolism",C00078,0.3333333333333333,40
+T2DM,hsa00260,"Glycine, serine and threonine metabolism",C00109,0.2,40
+T2DM,hsa00260,"Glycine, serine and threonine metabolism",C00114,0.3333333333333333,40
+T2DM,hsa00260,"Glycine, serine and threonine metabolism",C00168,0.5,40
+T2DM,hsa00260,"Glycine, serine and threonine metabolism",C00188,0.25,40
+T2DM,hsa00260,"Glycine, serine and threonine metabolism",C00258,0.3333333333333333,40
+T2DM,hsa00260,"Glycine, serine and threonine metabolism",C00300,0.5,40
+T2DM,hsa00260,"Glycine, serine and threonine metabolism",C00581,0.5,40
+T2DM,hsa00260,"Glycine, serine and threonine metabolism",C00719,0.5,40
+T2DM,hsa00260,"Glycine, serine and threonine metabolism",C01026,0.5,40
+T2DM,hsa00270,Cysteine and methionine metabolism,C00021,0.5,40
+T2DM,hsa00270,Cysteine and methionine metabolism,C00022,0.047619047619047616,40
+T2DM,hsa00270,Cysteine and methionine metabolism,C00041,0.25,40
+T2DM,hsa00270,Cysteine and methionine metabolism,C00049,0.1,40
+T2DM,hsa00270,Cysteine and methionine metabolism,C00065,0.125,40
+T2DM,hsa00270,Cysteine and methionine metabolism,C00073,0.25,40
+T2DM,hsa00270,Cysteine and methionine metabolism,C00109,0.2,40
+T2DM,hsa00270,Cysteine and methionine metabolism,C00170,1.0,40
+T2DM,hsa00270,Cysteine and methionine metabolism,C00491,1.0,40
+T2DM,hsa00270,Cysteine and methionine metabolism,C00506,0.5,40
+T2DM,hsa00270,Cysteine and methionine metabolism,C00979,0.5,40
+T2DM,hsa00270,Cysteine and methionine metabolism,C02356,1.0,40
+T2DM,hsa00270,Cysteine and methionine metabolism,C03145,1.0,40
+T2DM,hsa00280,"Valine, leucine and isoleucine degradation",C00123,0.5,40
+T2DM,hsa00280,"Valine, leucine and isoleucine degradation",C00141,0.25,40
+T2DM,hsa00280,"Valine, leucine and isoleucine degradation",C00164,0.25,40
+T2DM,hsa00280,"Valine, leucine and isoleucine degradation",C00183,0.3333333333333333,40
+T2DM,hsa00280,"Valine, leucine and isoleucine degradation",C00233,0.3333333333333333,40
+T2DM,hsa00280,"Valine, leucine and isoleucine degradation",C00407,0.5,40
+T2DM,hsa00280,"Valine, leucine and isoleucine degradation",C02170,0.3333333333333333,40
+T2DM,hsa00290,"Valine, leucine and isoleucine biosynthesis",C00022,0.047619047619047616,40
+T2DM,hsa00290,"Valine, leucine and isoleucine biosynthesis",C00109,0.2,40
+T2DM,hsa00290,"Valine, leucine and isoleucine biosynthesis",C00123,0.5,40
+T2DM,hsa00290,"Valine, leucine and isoleucine biosynthesis",C00141,0.25,40
+T2DM,hsa00290,"Valine, leucine and isoleucine biosynthesis",C00183,0.3333333333333333,40
+T2DM,hsa00290,"Valine, leucine and isoleucine biosynthesis",C00188,0.25,40
+T2DM,hsa00290,"Valine, leucine and isoleucine biosynthesis",C00233,0.3333333333333333,40
+T2DM,hsa00290,"Valine, leucine and isoleucine biosynthesis",C00407,0.5,40
+T2DM,hsa00310,Lysine degradation,C00026,0.07692307692307693,40
+T2DM,hsa00310,Lysine degradation,C00042,0.09090909090909091,40
+T2DM,hsa00310,Lysine degradation,C00047,0.5,40
+T2DM,hsa00310,Lysine degradation,C00164,0.25,40
+T2DM,hsa00310,Lysine degradation,C00322,0.3333333333333333,40
+T2DM,hsa00310,Lysine degradation,C00408,1.0,40
+T2DM,hsa00310,Lysine degradation,C00431,0.3333333333333333,40
+T2DM,hsa00310,Lysine degradation,C00489,1.0,40
+T2DM,hsa00310,Lysine degradation,C00956,1.0,40
+T2DM,hsa00310,Lysine degradation,C02727,1.0,40
+T2DM,hsa00310,Lysine degradation,C03196,1.0,40
+T2DM,hsa00330,Arginine and proline metabolism,C00022,0.047619047619047616,40
+T2DM,hsa00330,Arginine and proline metabolism,C00025,0.09090909090909091,40
+T2DM,hsa00330,Arginine and proline metabolism,C00048,0.2,40
+T2DM,hsa00330,Arginine and proline metabolism,C00062,0.3333333333333333,40
+T2DM,hsa00330,Arginine and proline metabolism,C00077,0.25,40
+T2DM,hsa00330,Arginine and proline metabolism,C00134,0.3333333333333333,40
+T2DM,hsa00330,Arginine and proline metabolism,C00148,0.5,40
+T2DM,hsa00330,Arginine and proline metabolism,C00300,0.5,40
+T2DM,hsa00330,Arginine and proline metabolism,C00315,0.3333333333333333,40
+T2DM,hsa00330,Arginine and proline metabolism,C00334,0.2,40
+T2DM,hsa00330,Arginine and proline metabolism,C00431,0.3333333333333333,40
+T2DM,hsa00330,Arginine and proline metabolism,C00581,0.5,40
+T2DM,hsa00330,Arginine and proline metabolism,C00750,0.25,40
+T2DM,hsa00330,Arginine and proline metabolism,C00791,1.0,40
+T2DM,hsa00330,Arginine and proline metabolism,C01035,1.0,40
+T2DM,hsa00330,Arginine and proline metabolism,C01157,0.5,40
+T2DM,hsa00330,Arginine and proline metabolism,C02946,1.0,40
+T2DM,hsa00330,Arginine and proline metabolism,C03771,0.5,40
+T2DM,hsa00340,Histidine metabolism,C00025,0.09090909090909091,40
+T2DM,hsa00340,Histidine metabolism,C00026,0.07692307692307693,40
+T2DM,hsa00340,Histidine metabolism,C00049,0.1,40
+T2DM,hsa00340,Histidine metabolism,C00135,0.3333333333333333,40
+T2DM,hsa00340,Histidine metabolism,C00386,0.5,40
+T2DM,hsa00340,Histidine metabolism,C00785,1.0,40
+T2DM,hsa00340,Histidine metabolism,C01152,1.0,40
+T2DM,hsa00350,Tyrosine metabolism,C00022,0.047619047619047616,40
+T2DM,hsa00350,Tyrosine metabolism,C00042,0.09090909090909091,40
+T2DM,hsa00350,Tyrosine metabolism,C00082,0.3333333333333333,40
+T2DM,hsa00350,Tyrosine metabolism,C00122,0.125,40
+T2DM,hsa00350,Tyrosine metabolism,C00146,1.0,40
+T2DM,hsa00350,Tyrosine metabolism,C00164,0.25,40
+T2DM,hsa00350,Tyrosine metabolism,C00355,1.0,40
+T2DM,hsa00350,Tyrosine metabolism,C01829,1.0,40
+T2DM,hsa00350,Tyrosine metabolism,C03758,1.0,40
+T2DM,hsa00350,Tyrosine metabolism,C05593,0.5,40
+T2DM,hsa00350,Tyrosine metabolism,C05600,1.0,40
+T2DM,hsa00350,Tyrosine metabolism,C06048,1.0,40
+T2DM,hsa00360,Phenylalanine metabolism,C00022,0.047619047619047616,40
+T2DM,hsa00360,Phenylalanine metabolism,C00042,0.09090909090909091,40
+T2DM,hsa00360,Phenylalanine metabolism,C00079,0.3333333333333333,40
+T2DM,hsa00360,Phenylalanine metabolism,C00082,0.3333333333333333,40
+T2DM,hsa00360,Phenylalanine metabolism,C00122,0.125,40
+T2DM,hsa00360,Phenylalanine metabolism,C03519,1.0,40
+T2DM,hsa00360,Phenylalanine metabolism,C04148,1.0,40
+T2DM,hsa00360,Phenylalanine metabolism,C05332,1.0,40
+T2DM,hsa00360,Phenylalanine metabolism,C05593,0.5,40
+T2DM,hsa00360,Phenylalanine metabolism,C07086,1.0,40
+T2DM,hsa00380,Tryptophan metabolism,C00078,0.3333333333333333,40
+T2DM,hsa00380,Tryptophan metabolism,C00322,0.3333333333333333,40
+T2DM,hsa00380,Tryptophan metabolism,C00328,1.0,40
+T2DM,hsa00380,Tryptophan metabolism,C00632,1.0,40
+T2DM,hsa00380,Tryptophan metabolism,C00780,1.0,40
+T2DM,hsa00380,Tryptophan metabolism,C00954,1.0,40
+T2DM,hsa00380,Tryptophan metabolism,C01598,1.0,40
+T2DM,hsa00380,Tryptophan metabolism,C01717,1.0,40
+T2DM,hsa00380,Tryptophan metabolism,C02470,1.0,40
+T2DM,hsa00380,Tryptophan metabolism,C05660,1.0,40
+T2DM,hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",C00078,0.3333333333333333,40
+T2DM,hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",C00079,0.3333333333333333,40
+T2DM,hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",C00082,0.3333333333333333,40
+T2DM,hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",C00493,1.0,40
+T2DM,hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",C00587,1.0,40
+T2DM,hsa00410,beta-Alanine metabolism,C00049,0.1,40
+T2DM,hsa00410,beta-Alanine metabolism,C00106,0.3333333333333333,40
+T2DM,hsa00410,beta-Alanine metabolism,C00135,0.3333333333333333,40
+T2DM,hsa00410,beta-Alanine metabolism,C00315,0.3333333333333333,40
+T2DM,hsa00410,beta-Alanine metabolism,C00334,0.2,40
+T2DM,hsa00410,beta-Alanine metabolism,C00383,0.5,40
+T2DM,hsa00410,beta-Alanine metabolism,C00386,0.5,40
+T2DM,hsa00410,beta-Alanine metabolism,C00750,0.25,40
+T2DM,hsa00410,beta-Alanine metabolism,C00864,0.5,40
+T2DM,hsa00410,beta-Alanine metabolism,C01013,0.25,40
+T2DM,hsa00430,Taurine and hypotaurine metabolism,C00022,0.047619047619047616,40
+T2DM,hsa00430,Taurine and hypotaurine metabolism,C00025,0.09090909090909091,40
+T2DM,hsa00430,Taurine and hypotaurine metabolism,C00026,0.07692307692307693,40
+T2DM,hsa00430,Taurine and hypotaurine metabolism,C00033,0.16666666666666666,40
+T2DM,hsa00430,Taurine and hypotaurine metabolism,C00041,0.25,40
+T2DM,hsa00430,Taurine and hypotaurine metabolism,C00245,0.5,40
+T2DM,hsa00430,Taurine and hypotaurine metabolism,C00506,0.5,40
+T2DM,hsa00470,D-Amino acid metabolism,C00022,0.047619047619047616,40
+T2DM,hsa00470,D-Amino acid metabolism,C00025,0.09090909090909091,40
+T2DM,hsa00470,D-Amino acid metabolism,C00026,0.07692307692307693,40
+T2DM,hsa00470,D-Amino acid metabolism,C00041,0.25,40
+T2DM,hsa00470,D-Amino acid metabolism,C00047,0.5,40
+T2DM,hsa00470,D-Amino acid metabolism,C00049,0.1,40
+T2DM,hsa00470,D-Amino acid metabolism,C00062,0.3333333333333333,40
+T2DM,hsa00470,D-Amino acid metabolism,C00064,0.14285714285714285,40
+T2DM,hsa00470,D-Amino acid metabolism,C00065,0.125,40
+T2DM,hsa00470,D-Amino acid metabolism,C00073,0.25,40
+T2DM,hsa00470,D-Amino acid metabolism,C00077,0.25,40
+T2DM,hsa00470,D-Amino acid metabolism,C00079,0.3333333333333333,40
+T2DM,hsa00470,D-Amino acid metabolism,C00134,0.3333333333333333,40
+T2DM,hsa00470,D-Amino acid metabolism,C00135,0.3333333333333333,40
+T2DM,hsa00470,D-Amino acid metabolism,C00148,0.5,40
+T2DM,hsa00470,D-Amino acid metabolism,C00188,0.25,40
+T2DM,hsa00470,D-Amino acid metabolism,C00431,0.3333333333333333,40
+T2DM,hsa00470,D-Amino acid metabolism,C00624,0.5,40
+T2DM,hsa00470,D-Amino acid metabolism,C01157,0.5,40
+T2DM,hsa00470,D-Amino acid metabolism,C03771,0.5,40
+T2DM,hsa00480,Glutathione metabolism,C00025,0.09090909090909091,40
+T2DM,hsa00480,Glutathione metabolism,C00072,0.5,40
+T2DM,hsa00480,Glutathione metabolism,C00077,0.25,40
+T2DM,hsa00480,Glutathione metabolism,C00134,0.3333333333333333,40
+T2DM,hsa00480,Glutathione metabolism,C00315,0.3333333333333333,40
+T2DM,hsa00480,Glutathione metabolism,C00750,0.25,40
+T2DM,hsa00480,Glutathione metabolism,C01879,1.0,40
+T2DM,hsa00520,Amino sugar and nucleotide sugar metabolism,C00031,0.25,40
+T2DM,hsa00520,Amino sugar and nucleotide sugar metabolism,C00159,0.5,40
+T2DM,hsa00520,Amino sugar and nucleotide sugar metabolism,C00191,0.3333333333333333,40
+T2DM,hsa00520,Amino sugar and nucleotide sugar metabolism,C00984,0.5,40
+T2DM,hsa00564,Glycerophospholipid metabolism,C00065,0.125,40
+T2DM,hsa00564,Glycerophospholipid metabolism,C00114,0.3333333333333333,40
+T2DM,hsa00564,Glycerophospholipid metabolism,C01996,1.0,40
+T2DM,hsa00564,Glycerophospholipid metabolism,C04438,1.0,40
+T2DM,hsa00600,Sphingolipid metabolism,C00065,0.125,40
+T2DM,hsa00600,Sphingolipid metabolism,C00319,1.0,40
+T2DM,hsa00600,Sphingolipid metabolism,C00836,1.0,40
+T2DM,hsa00600,Sphingolipid metabolism,C01120,1.0,40
+T2DM,hsa00600,Sphingolipid metabolism,C06124,1.0,40
+T2DM,hsa00620,Pyruvate metabolism,C00022,0.047619047619047616,40
+T2DM,hsa00620,Pyruvate metabolism,C00033,0.16666666666666666,40
+T2DM,hsa00620,Pyruvate metabolism,C00042,0.09090909090909091,40
+T2DM,hsa00620,Pyruvate metabolism,C00122,0.125,40
+T2DM,hsa00620,Pyruvate metabolism,C00149,0.3333333333333333,40
+T2DM,hsa00620,Pyruvate metabolism,C00186,0.3333333333333333,40
+T2DM,hsa00630,Glyoxylate and dicarboxylate metabolism,C00022,0.047619047619047616,40
+T2DM,hsa00630,Glyoxylate and dicarboxylate metabolism,C00025,0.09090909090909091,40
+T2DM,hsa00630,Glyoxylate and dicarboxylate metabolism,C00026,0.07692307692307693,40
+T2DM,hsa00630,Glyoxylate and dicarboxylate metabolism,C00033,0.16666666666666666,40
+T2DM,hsa00630,Glyoxylate and dicarboxylate metabolism,C00042,0.09090909090909091,40
+T2DM,hsa00630,Glyoxylate and dicarboxylate metabolism,C00048,0.2,40
+T2DM,hsa00630,Glyoxylate and dicarboxylate metabolism,C00049,0.1,40
+T2DM,hsa00630,Glyoxylate and dicarboxylate metabolism,C00064,0.14285714285714285,40
+T2DM,hsa00630,Glyoxylate and dicarboxylate metabolism,C00065,0.125,40
+T2DM,hsa00630,Glyoxylate and dicarboxylate metabolism,C00149,0.3333333333333333,40
+T2DM,hsa00630,Glyoxylate and dicarboxylate metabolism,C00158,0.3333333333333333,40
+T2DM,hsa00630,Glyoxylate and dicarboxylate metabolism,C00160,1.0,40
+T2DM,hsa00630,Glyoxylate and dicarboxylate metabolism,C00168,0.5,40
+T2DM,hsa00630,Glyoxylate and dicarboxylate metabolism,C00209,0.5,40
+T2DM,hsa00630,Glyoxylate and dicarboxylate metabolism,C00258,0.3333333333333333,40
+T2DM,hsa00630,Glyoxylate and dicarboxylate metabolism,C00417,0.3333333333333333,40
+T2DM,hsa00630,Glyoxylate and dicarboxylate metabolism,C03548,1.0,40
+T2DM,hsa00640,Propanoate metabolism,C00042,0.09090909090909091,40
+T2DM,hsa00640,Propanoate metabolism,C00109,0.2,40
+T2DM,hsa00640,Propanoate metabolism,C00163,0.3333333333333333,40
+T2DM,hsa00640,Propanoate metabolism,C00186,0.3333333333333333,40
+T2DM,hsa00640,Propanoate metabolism,C01013,0.25,40
+T2DM,hsa00640,Propanoate metabolism,C02170,0.3333333333333333,40
+T2DM,hsa00640,Propanoate metabolism,C05984,1.0,40
+T2DM,hsa00650,Butanoate metabolism,C00022,0.047619047619047616,40
+T2DM,hsa00650,Butanoate metabolism,C00025,0.09090909090909091,40
+T2DM,hsa00650,Butanoate metabolism,C00026,0.07692307692307693,40
+T2DM,hsa00650,Butanoate metabolism,C00042,0.09090909090909091,40
+T2DM,hsa00650,Butanoate metabolism,C00122,0.125,40
+T2DM,hsa00650,Butanoate metabolism,C00164,0.25,40
+T2DM,hsa00650,Butanoate metabolism,C00246,1.0,40
+T2DM,hsa00650,Butanoate metabolism,C00334,0.2,40
+T2DM,hsa00650,Butanoate metabolism,C01089,1.0,40
+T2DM,hsa00650,Butanoate metabolism,C06144,1.0,40
+T2DM,hsa00660,C5-Branched dibasic acid metabolism,C00022,0.047619047619047616,40
+T2DM,hsa00660,C5-Branched dibasic acid metabolism,C00025,0.09090909090909091,40
+T2DM,hsa00660,C5-Branched dibasic acid metabolism,C00026,0.07692307692307693,40
+T2DM,hsa00660,C5-Branched dibasic acid metabolism,C00033,0.16666666666666666,40
+T2DM,hsa00660,C5-Branched dibasic acid metabolism,C00048,0.2,40
+T2DM,hsa00660,C5-Branched dibasic acid metabolism,C00109,0.2,40
+T2DM,hsa00660,C5-Branched dibasic acid metabolism,C00417,0.3333333333333333,40
+T2DM,hsa00670,One carbon pool by folate,C00021,0.5,40
+T2DM,hsa00670,One carbon pool by folate,C00065,0.125,40
+T2DM,hsa00670,One carbon pool by folate,C00073,0.25,40
+T2DM,hsa00670,One carbon pool by folate,C00114,0.3333333333333333,40
+T2DM,hsa00670,One carbon pool by folate,C00719,0.5,40
+T2DM,hsa00670,One carbon pool by folate,C01026,0.5,40
+T2DM,hsa00750,Vitamin B6 metabolism,C00064,0.14285714285714285,40
+T2DM,hsa00750,Vitamin B6 metabolism,C00847,1.0,40
+T2DM,hsa00750,Vitamin B6 metabolism,C04690,1.0,40
+T2DM,hsa00760,Nicotinate and nicotinamide metabolism,C00022,0.047619047619047616,40
+T2DM,hsa00760,Nicotinate and nicotinamide metabolism,C00042,0.09090909090909091,40
+T2DM,hsa00760,Nicotinate and nicotinamide metabolism,C00049,0.1,40
+T2DM,hsa00760,Nicotinate and nicotinamide metabolism,C00122,0.125,40
+T2DM,hsa00760,Nicotinate and nicotinamide metabolism,C00153,1.0,40
+T2DM,hsa00760,Nicotinate and nicotinamide metabolism,C00163,0.3333333333333333,40
+T2DM,hsa00760,Nicotinate and nicotinamide metabolism,C00334,0.2,40
+T2DM,hsa00760,Nicotinate and nicotinamide metabolism,C02918,1.0,40
+T2DM,hsa00760,Nicotinate and nicotinamide metabolism,C05842,1.0,40
+T2DM,hsa00770,Pantothenate and CoA biosynthesis,C00022,0.047619047619047616,40
+T2DM,hsa00770,Pantothenate and CoA biosynthesis,C00049,0.1,40
+T2DM,hsa00770,Pantothenate and CoA biosynthesis,C00106,0.3333333333333333,40
+T2DM,hsa00770,Pantothenate and CoA biosynthesis,C00141,0.25,40
+T2DM,hsa00770,Pantothenate and CoA biosynthesis,C00183,0.3333333333333333,40
+T2DM,hsa00770,Pantothenate and CoA biosynthesis,C00750,0.25,40
+T2DM,hsa00770,Pantothenate and CoA biosynthesis,C00864,0.5,40
+T2DM,hsa00770,Pantothenate and CoA biosynthesis,C05944,1.0,40
+T2DM,hsa00785,Lipoic acid metabolism,C00022,0.047619047619047616,40
+T2DM,hsa00785,Lipoic acid metabolism,C00026,0.07692307692307693,40
+T2DM,hsa00785,Lipoic acid metabolism,C00141,0.25,40
+T2DM,hsa00785,Lipoic acid metabolism,C00233,0.3333333333333333,40
+T2DM,hsa00785,Lipoic acid metabolism,C00322,0.3333333333333333,40
+T2DM,hsa00785,Lipoic acid metabolism,C06423,1.0,40
+T2DM,hsa00860,Porphyrin metabolism,C00025,0.09090909090909091,40
+T2DM,hsa00860,Porphyrin metabolism,C00188,0.25,40
+T2DM,hsa00860,Porphyrin metabolism,C00500,1.0,40
+T2DM,hsa00860,Porphyrin metabolism,C03029,1.0,40
+T2DM,hsa00860,Porphyrin metabolism,C05781,1.0,40
+T2DM,hsa00860,Porphyrin metabolism,C05784,1.0,40
+T2DM,hsa00860,Porphyrin metabolism,C05797,1.0,40
+T2DM,hsa00920,Sulfur metabolism,C00033,0.16666666666666666,40
+T2DM,hsa00920,Sulfur metabolism,C00042,0.09090909090909091,40
+T2DM,hsa00920,Sulfur metabolism,C00065,0.125,40
+T2DM,hsa00920,Sulfur metabolism,C00073,0.25,40
+T2DM,hsa00920,Sulfur metabolism,C00163,0.3333333333333333,40
+T2DM,hsa00920,Sulfur metabolism,C00245,0.5,40
+T2DM,hsa00920,Sulfur metabolism,C00979,0.5,40
+T2DM,hsa00920,Sulfur metabolism,C01013,0.25,40
+METH,hsa00230,Purine metabolism,C00059,1,6
+METH,hsa00230,Purine metabolism,C00294,1,6
+METH,hsa00230,Purine metabolism,C00385,1,6
+METH,hsa00982,Drug metabolism - cytochrome P450,C05011,1,6
+METH,hsa00982,Drug metabolism - cytochrome P450,C07108,1,6
+METH,hsa00982,Drug metabolism - cytochrome P450,C16595,1,6
+METH,hsa00860,Porphyrin metabolism,C03263,1,6
+METH,hsa00860,Porphyrin metabolism,C05791,1,6
+METH,hsa00860,Porphyrin metabolism,C05795,1,6
+METH,hsa00860,Porphyrin metabolism,C18022,1,6
+METH,hsa00860,Porphyrin metabolism,C20666,1,6
+METH,hsa00524,"Neomycin, kanamycin and gentamicin biosynthesis",C00397,1,6
+METH,hsa00524,"Neomycin, kanamycin and gentamicin biosynthesis",C02033,1,6
+METH,hsa00524,"Neomycin, kanamycin and gentamicin biosynthesis",C17589,1,6
+METH,hsa00524,"Neomycin, kanamycin and gentamicin biosynthesis",C17701,1,6
+METH,hsa00524,"Neomycin, kanamycin and gentamicin biosynthesis",C21251,1,6
+METH,hsa00524,"Neomycin, kanamycin and gentamicin biosynthesis",C21266,1,6
+METH,hsa00140,Steroid hormone biosynthesis,C00535,1,6
+METH,hsa00140,Steroid hormone biosynthesis,C05472,1,6
+METH,hsa00140,Steroid hormone biosynthesis,C05473,1,6
+METH,hsa00140,Steroid hormone biosynthesis,C05474,1,6
+METH,hsa00380,Tryptophan metabolism,C00078,1,6
+METH,hsa00380,Tryptophan metabolism,C00398,1,6
+METH,hsa00380,Tryptophan metabolism,C00978,1,6
+METH,hsa00380,Tryptophan metabolism,C05660,1,6
+METH,hsa00380,Tryptophan metabolism,C05834,1,6

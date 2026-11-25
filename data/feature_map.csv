@@ -1,0 +1,489 @@
+Cohort,Feature,Compound,Name
+CRC,C02470,C02470,Xanthurenic acid
+CRC,C01762,C01762,Xanthosine
+CRC,C00385,C00385,Xanthine
+CRC,C00183,C00183,L-Valine
+CRC,C00299,C00299,Uridine
+CRC,C00366,C00366,Uric acid
+CRC,C00082,C00082,L-Tyrosine
+CRC,C00078,C00078,L-Tryptophan
+CRC,C01104,C01104,Trimethylamine N-oxide
+CRC,C00188,C00188,L-Threonine
+CRC,C00245,C00245,Taurine
+CRC,C00042,C00042,Succinic acid
+CRC,C02170,C02170,Methylmalonic acid
+CRC,C00794,C00794,Sorbitol
+CRC,C00493,C00493,Shikimic acid
+CRC,C00065,C00065,L-Serine
+CRC,C07588,C07588,Salicyluric acid
+CRC,C00051,C00051,Glutathione
+CRC,C00022,C00022,Pyruvic acid
+CRC,C01879,C01879,Pyroglutamic acid
+CRC,C00018,C00018,Pyridoxal 5'-phosphate
+CRC,C00163,C00163,Propionic acid
+CRC,C00148,C00148,L-Proline
+CRC,C00079,C00079,L-Phenylalanine
+CRC,C00074,C00074,Phosphoenolpyruvic acid
+CRC,C00864,C00864,Pantothenic acid
+CRC,C00036,C00036,Oxalacetic acid
+CRC,C00209,C00209,Oxalic acid
+CRC,C00295,C00295,Orotic acid
+CRC,C00077,C00077,L-Ornithine monochlorohydrate/ornithine
+CRC,C00153,C00153,Niacinamide
+CRC,C08645,C08645,Methylsuccinic acid
+CRC,C00073,C00073,L-Methionine
+CRC,C04025,C04025,Malonate
+CRC,C01089,C01089,(R)-3-Hydroxybutyric acid
+CRC,C01384,C01384,Maleic acid
+CRC,C00149,C00149,L-Malic acid
+CRC,C00047,C00047,L-Lysine
+CRC,C01718,C01718,L-Kynurenine(C00328)
+CRC,C06427,C06427,Alpha-Linolenic acid
+CRC,C01595,C01595,Linoleic acid
+CRC,C00123,C00123,L-Leucine
+CRC,C00407,C00407,L-Isoleucine
+CRC,C00186,C00186,L-Lactic acid
+CRC,C01717,C01717,Kynurenic acid
+CRC,C00294,C00294,Inosine
+CRC,C00130,C00130,Inosinic acid
+CRC,C01586,C01586,Hippuric acid
+CRC,C00262,C00262,Hypoxanthine
+CRC,C01157,C01157,4-Hydroxyproline
+CRC,C00430,C00430,5-Aminolevulinic acid
+CRC,C05582,C05582,Homovanillic acid
+CRC,C00544,C00544,Homogentisic acid
+CRC,C00135,C00135,L-Histidine
+CRC,C00387,C00387,Guanosine
+CRC,C00581,C00581,Guanidoacetic acid
+CRC,C01921,C01921,Glycocholic acid
+CRC,C05466,C05466,Chenodeoxycholic acid glycine conjugate
+CRC,C00037,C00037,Glycine
+CRC,C00093,C00093,Glycerol 3-phosphate
+CRC,C00258,C00258,Glyceric acid
+CRC,C02426,C02426,D-Glyceraldehyde
+CRC,C00489,C00489,Glutaric acid
+CRC,C00064,C00064,L-Glutamine
+CRC,C00025,C00025,L-Glutamic acid
+CRC,C00221,C00221,D-Glucose
+CRC,C08350,C08350,Beta-D-Glucuronic acid
+CRC,C00334,C00334,Gamma-Aminobutyric acid
+CRC,C01231,C01231,"Alpha-D-Glucose 1,6-bisphosphate"
+CRC,C00122,C00122,Fumaric acid
+CRC,C02336,C02336,D-Fructose
+CRC,C00665,C00665,"D-Fructose 2,6-bisphosphate"
+CRC,C00354,C00354,"Fructose 1,6-bisphosphate"
+CRC,C00279,C00279,D-Erythrose 4-phosphate
+CRC,C00788,C00788,Epinephrine
+CRC,C00364,C00364,5-Thymidylic acid
+CRC,C03264,C03264,D-Leucate
+CRC,C01026,C01026,Dimethylglycine
+CRC,C00118,C00118,D-Glyceraldehyde 3-phosphate
+CRC,C00111,C00111,Dihydroxyacetone phosphate
+CRC,C00380,C00380,Cytosine
+CRC,C00475,C00475,Cytidine
+CRC,C01420,C01420,L-Cystine
+CRC,C02291,C02291,L-Cystathionine
+CRC,C00791,C00791,Creatinine
+CRC,C00300,C00300,Creatine
+CRC,C00327,C00327,Citrulline
+CRC,C02226,C02226,Citraconic acid
+CRC,C00114,C00114,Choline
+CRC,C00318,C00318,L-Carnitine
+CRC,C00120,C00120,Biotin
+CRC,C00719,C00719,Betaine
+CRC,C00049,C00049,L-Aspartic acid
+CRC,C00152,C00152,L-Asparagine
+CRC,C00062,C00062,L-Arginine
+CRC,C00108,C00108,2-Aminobenzoic acid
+CRC,C00020,C00020,Adenosine monophosphate
+CRC,C03284,C03284,(S)-b-aminoisobutyric acid
+CRC,C00026,C00026,Oxoglutaric acid
+CRC,C01551,C01551,Allantoin
+CRC,C00041,C00041,L-Alanine
+CRC,C06104,C06104,Adipic acid
+CRC,C03794,C03794,Adenylsuccinic acid
+CRC,C00212,C00212,Adenosine
+CRC,C02341,C02341,trans-Aconitic acid
+CRC,C01996,C01996,Acetylcholine
+CRC,C00164,C00164,Acetoacetic acid
+CRC,C01017,C01017,5-Hydroxy-L-tryptophan
+CRC,C00847,C00847,4-Pyridoxic acid
+CRC,C00526,C00526,Deoxyuridine
+CRC,C00956,C00956,Aminoadipic acid
+CRC,C05127,C05127,1-Methylhistamine
+CRC,C02494,C02494,1-Methyladenosine
+METH,METH_001,C13672,alpha-AMINO-3-HYDROXY-5-METHYL-4-ISOXAZOLEPROPIONIC ACID
+METH,METH_002,C00385,Xanthine
+METH,METH_003,,Hydroxycotinine
+METH,METH_004,C21266,3''-Amino-3''-deoxygentamicin A2
+METH,METH_005,C18022,Red chlorophyll catabolite
+METH,METH_006,,xi-p-Menth-3-ene
+METH,METH_007,C17589,6'''-Deamino-6'''-oxoneomycin C
+METH,METH_008,,"CDP-DG(i-12:0/18:1(12Z)-2OH(9,10))"
+METH,METH_009,,2-Hydroxycinnamic acid
+METH,METH_010,C00082,L-Tyrosine
+METH,METH_011,C04272,"(R)-2,3-Dihydroxy-3-methylbutanoate"
+METH,METH_012,C00294,Inosine
+METH,METH_013,C04368,3-Amino-3-(4-hydroxyphenyl)propanoate
+METH,METH_014,,Ornithokinin
+METH,METH_015,,Glutamylisoleucine
+METH,METH_016,C00978,N-Acetylserotonin
+METH,METH_017,C00141,3-Methyl-2-oxobutanoic acid
+METH,METH_018,C08935,Cimicifugoside
+METH,METH_019,,Cyclopassifloside VI
+METH,METH_020,C00489,Glutarate
+METH,METH_021,,N-Alpha-acetyllysine
+METH,METH_022,,Threonylisoleucine
+METH,METH_023,,Elaterinide
+METH,METH_024,C10144,Fagomine
+METH,METH_025,C00041,L-Alanine
+METH,METH_026,C17701,Gentamicin A2
+METH,METH_027,,Gln Val Tyr Asp
+METH,METH_028,,isoleucyl-thiazolidine
+METH,METH_029,,"CDP-DG(i-20:0/18:1(12Z)-2OH(9,10))"
+METH,METH_030,,N-(3-(Dimethylamino)propyl)acrylamide
+METH,METH_031,C22141,L-beta-Ethynylserine
+METH,METH_032,,"17-phenyl-18,19,20-trinor-prostaglandin E2"
+METH,METH_033,,6-beta-hydroxydexamethasone
+METH,METH_034,,"DG(15:0/18:1(12Z)-O(9S,10R)/0:0)"
+METH,METH_035,,25-Hydroxyvitamin D2-25-glucuronide
+METH,METH_036,C20499,(1'S)-Averantin
+METH,METH_037,,4-Hydroxydebrisoquine
+METH,METH_038,C16155,UDP-L-Ara4O
+METH,METH_039,,Methoxymalic acid
+METH,METH_040,,3-Carboxyoxy-2-hydroxypropanoic acid
+METH,METH_041,C03671,"2-Pyrone-4,6-dicarboxylate"
+METH,METH_042,C01236,"D-Glucono-1,5-lactone 6-phosphate"
+METH,METH_043,,L-alpha-Amino-1H-pyrrole-1-hexanoic acid
+METH,METH_044,,Asparaginylisoleucine
+METH,METH_045,,Glutamyllysine
+METH,METH_046,C01221,Dihydrostreptomycin 6-phosphate
+METH,METH_047,,Glu Thr Val Arg
+METH,METH_048,,Amphibine H
+METH,METH_049,C20279,"(2R,3R)-3-Methylglutamyl-5-semialdehyde-N6-lysine"
+METH,METH_050,,"LysoPC(18:3(6Z,9Z,12Z)/0:0)"
+METH,METH_051,C11964,Avermectin A1b aglycone
+METH,METH_052,,Glutaminylphenylalanine
+METH,METH_053,C18296,"5a,11a-Dehydrooxytetracycline"
+METH,METH_054,C00078,L-Tryptophan
+METH,METH_055,C04498,p-Coumaroylagmatine
+METH,METH_056,,"PS(16:1(9Z)/20:4(6Z,8E,10E,14Z)-2OH(5S,12R))"
+METH,METH_057,,"5-Isoxazoleacetic acid, 4,5-dihydro-3-(4-hydroxyphenyl)-, methyl ester"
+METH,METH_058,,Isoleucylhydroxyproline
+METH,METH_059,C01788,CDP-abequose
+METH,METH_060,C05834,3-Methyldioxyindole
+METH,METH_061,C05851,Coumarin
+METH,METH_062,C21368,GDP-valienol
+METH,METH_063,C10784,Cannabidiolic acid
+METH,METH_064,C22144,(-)-Ditryptophenaline
+METH,METH_065,,Nomilinic acid 17-glucoside
+METH,METH_066,C11967,Avermectin B1b
+METH,METH_067,,"(R)-2-Amino-N-(2,2,4,4-tetramethyl-3-thietanyl)propanamide"
+METH,METH_068,C11061,all-trans-Retinoyl-beta-glucuronide
+METH,METH_069,C01844,Pravastatin
+METH,METH_070,C01918,Gentamicin C
+METH,METH_071,C02824,Cyclohexylsulfamate
+METH,METH_072,C05473,"11beta,21-Dihydroxy-3,20-oxo-5beta-pregnan-18-al"
+METH,METH_073,C00584,Prostaglandin E2
+METH,METH_074,,Cholylaspartic acid
+METH,METH_075,,Ganoderic acid H
+METH,METH_076,,27-O-demethylrifabutin
+METH,METH_077,C05322,7-O-Acetylsalutaridinol
+METH,METH_078,,(R)-Ruxolitinib
+METH,METH_079,,Leucyl-Isoleucine
+METH,METH_080,,Arginyl-Leucine
+METH,METH_081,C08659,Inuline
+METH,METH_082,C00397,Tobramycin
+METH,METH_083,C16568,Homotrypanothione disulfide
+METH,METH_084,C03677,"4,21-Dehydrogeissoschizine"
+METH,METH_085,C10328,Integerrimine
+METH,METH_086,C07108,Tamoxifen
+METH,METH_087,C20853,Monacolin L acid
+METH,METH_088,,Abeado
+METH,METH_089,C15970,Abscisic acid glucose ester
+METH,METH_090,,Acuminoside
+METH,METH_091,C20666,5-Oxo-delta-bilirubin
+METH,METH_092,,Leukotriene D4 methyl ester
+METH,METH_093,,Stachyflin
+METH,METH_094,,5-Hydroxylysinonorleucine
+METH,METH_095,C05011,Hydroxytamoxifen
+METH,METH_096,C04421,"N-Succinyl-LL-2,6-diaminoheptanedioate"
+METH,METH_097,,Glycyl-Arginine
+METH,METH_098,C18135,Dihydroshikonofuran
+METH,METH_099,,Lumiflavin
+METH,METH_100,,Enkephalin L
+METH,METH_101,C10860,Littorine
+METH,METH_102,,Ala Glu Ile Lys
+METH,METH_103,,Methylene dithiocyanate
+METH,METH_104,C06956,Digoxin
+METH,METH_105,,"PIP(16:2(9Z,12Z)/5-iso PGF2VI)"
+METH,METH_106,,Libenzapril
+METH,METH_107,C02033,Gentamicin C2
+METH,METH_108,,"Trideca-6,8,10-trienoylcarnitine"
+METH,METH_109,C00477,Ecdysone
+METH,METH_110,C05795,D-Urobilin
+METH,METH_111,,Leustroducsin B
+METH,METH_112,,Desmethyldeschlorobenzoyl Indomethacin
+METH,METH_113,,Desglucocheirotoxin
+METH,METH_114,C05474,"3alpha,11beta,21-Trihydroxy-20-oxo-5beta-pregnan-18-al"
+METH,METH_115,,epsilon-Captrolactone
+METH,METH_116,C00364,dTMP
+METH,METH_117,,Phenylalanylisoleucine
+METH,METH_118,C03263,Coproporphyrinogen III
+METH,METH_119,,Palosuran
+METH,METH_120,,Beloranib
+METH,METH_121,,PZ-Peptide
+METH,METH_122,,Norethindrone oxime
+METH,METH_123,C21251,6'-Oxokanamycin X
+METH,METH_124,C02710,N-Acetyl-L-leucine
+METH,METH_125,,Val-Val-Val
+METH,METH_126,,Isoleucyl-Tryptophan
+METH,METH_127,,Indicine-N-oxide
+METH,METH_128,,Semagacestat
+METH,METH_129,,N-(8-Amino-1-carboxyoctyl)-alanyl-proline
+METH,METH_130,,"CDP-DG(20:4(5Z,8Z,11Z,13E)+=O(15)/a-25:0)"
+METH,METH_131,,Elbasvir
+METH,METH_132,,Cilofungin
+METH,METH_133,,Alpha-Linolenoyl ethanolamide
+METH,METH_134,C05964,11-Dehydro-thromboxane B2
+METH,METH_135,,"PG(20:2(11Z,14Z)/LTE4)"
+METH,METH_136,C05627,4-Hydroxystyrene
+METH,METH_137,C05608,4-Hydroxycinnamyl aldehyde
+METH,METH_138,,Pacific Ciguatoxin 4A
+METH,METH_139,,Gly Leu Phe
+METH,METH_140,,Cincassiol B
+METH,METH_141,,DG(10:0/PGE2/0:0)
+METH,METH_142,,Capsianoside I
+METH,METH_143,C15694,Epothilone C
+METH,METH_144,,"L-Valine, N-(2-hydroxy-3-butenyl)-"
+METH,METH_145,C00398,Tryptamine
+METH,METH_146,,Glu Thr Tyr Glu
+METH,METH_147,C01586,Hippurate
+METH,METH_148,C01443,Ouabain
+METH,METH_149,,"PI(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/TXB2)"
+METH,METH_150,C11984,Avermectin A1a
+METH,METH_151,,"PI(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/PGJ2)"
+METH,METH_152,C05791,D-Urobilinogen
+METH,METH_153,C01946,Oleandomycin
+METH,METH_154,,Antibiotic A 204A
+METH,METH_155,,Leu-Leu-Leu
+METH,METH_156,C17889,Eriojaposide B
+METH,METH_157,C05660,5-Methoxyindoleacetate
+METH,METH_158,C00805,Salicylic acid
+METH,METH_159,,Cytochalasin Npho
+METH,METH_160,,"(17E,19E,21E,23E,25E)-4,6,8,10,12,14,16,27-Octahydroxy-3-(1-hydroxyhexyl)-17,28-dimethyl-1-oxacyclooctacosa-17,19,21,23,25-pentaen-2-one"
+METH,METH_161,C01877,4-Oxo-L-proline
+METH,METH_162,,Cloversaponin I
+METH,METH_163,,Indoleacrylic acid
+METH,METH_164,,2(3H)-Benzothiazolethione
+METH,METH_165,,"PA(20:5(5Z,8Z,11Z,14Z,17Z)/20:5(7Z,9Z,11E,13E,17Z)-3OH(5,6,15))"
+METH,METH_166,C14833,"9,12,13-TriHOME"
+METH,METH_167,,Etimicin
+METH,METH_168,,"2,3-Dihydro-6-methoxy-2,2-dimethyl-4H-1-benzopyran-4-one"
+METH,METH_169,,Bovolide
+METH,METH_170,,PGP(i-19:0/PGF2alpha)
+METH,METH_171,,"1,11-Undecanedicarboxylic acid"
+METH,METH_172,,"13,14-dihydro-15-keto-PGE1"
+METH,METH_173,,"2-Cyclohexen-1-one, 3-(15-hydroxypentadecyl)-2,4,4-trimethyl-"
+METH,METH_174,,Eremopetasinorol
+METH,METH_175,,"N'-(1,6-Dihydro-6-oxo-2-pyridinyl)-N,N-dipropylmethanimidamide"
+METH,METH_176,C00214,Thymidine
+METH,METH_177,,5(S)-HpEPE
+METH,METH_178,,Palmitoyl glucuronide
+METH,METH_179,,"Trideca-3,6,9-trienoylcarnitine"
+METH,METH_180,,LysoPE(15:0/0:0)
+METH,METH_181,C00535,Testosterone
+METH,METH_182,,"9-Hydroxyoctadeca-2,4-dienoic acid"
+METH,METH_183,,12-Hydroperoxy-icosatetraenoic acid
+METH,METH_184,,1-Heneicosanoyl-glycero-3-phosphoserine
+METH,METH_185,,Methyl-[12]-gingerdiol
+METH,METH_186,,Cytochalasin Opho
+METH,METH_187,,1-Nonadecanoyl-glycero-3-phosphoethanolamine
+METH,METH_188,,Serylhydroxyproline
+METH,METH_189,,LysoPE(0:0/16:0)
+METH,METH_190,,LysoPC(16:0/0:0)
+METH,METH_191,,(±)9-HODE
+METH,METH_192,C00059,Sulfate
+METH,METH_193,,"DG(2:0/20:4(6Z,8E,10E,14Z)-2OH(5S,12R)/0:0)"
+METH,METH_194,C00502,D-Xylonate
+METH,METH_195,,3-Oxohexadecanoic acid
+METH,METH_196,,Radalbuvir
+METH,METH_197,,Lyso-PAF C-16
+METH,METH_198,,"5,6-dehydro Arachidonic Acid"
+METH,METH_199,C06694,Fusidic acid
+METH,METH_200,,10-Hydroxymyristic acid methyl ester
+METH,METH_201,,Misoprostol acid
+METH,METH_202,,PS(18:1(9Z)/0:0)
+METH,METH_203,,Oleoyl glycine
+METH,METH_204,,9(S)-HODE-d4
+METH,METH_205,,Cohibin C
+METH,METH_206,,"7Z, 10Z, 13Z, 16Z, 19Z-docosapentaenoic acid"
+METH,METH_207,,"CP 47,497-C8-homolog C-8-hydroxy metabolite"
+METH,METH_208,,LysoPC(15:0/0:0)
+METH,METH_209,,LysoPI(16:0/0:0)
+METH,METH_210,,1-O-(cis-9-Octadecenyl)-2-O-acetyl-sn-glycero-3-phosphocholine
+METH,METH_211,,LysoPC(P-18:0/0:0)
+METH,METH_212,,N(4)-Octadecyl-1-arabinofuranosylcytosine
+METH,METH_213,,Lyciumoside IV
+METH,METH_214,C05472,Urocortisol
+METH,METH_215,C16595,"4-Hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one"
+METH,METH_216,,"8,11-eicosadiynoic acid"
+METH,METH_217,C03309,Strictosidine aglycone
+METH,METH_218,C00993,D-Alanyl-D-alanine
+METH,METH_219,,5-L-Glutamyl-L-alanine
+METH,METH_220,,N-Acetylglucosamine 6-sulfate
+METH,METH_221,,Threonyllysine
+METH,METH_222,,Galbeta1-3(Fucalpha1-4)GlcNAcbeta
+METH,METH_223,,Ε-(gamma-Glutamyl)-lysine
+METH,METH_224,,"1H-1,2,4-Triazole-3-carboxamide"
+METH,METH_225,C16614,6-Methylmercaptopurine
+METH,METH_226,C20915,C20915
+METH,METH_227,,Glutamylvaline
+METH,METH_228,C16698,N-Acetylmuramic acid 6-phosphate
+METH,METH_229,,Descyclopropyl Abacavir
+T2DM,C00022,C00022,Pyruvic acid
+T2DM,C00031,C00031,D-Glucose
+T2DM,C00186,C00186,L-Lactic acid
+T2DM,C00033,C00033,Acetic acid
+T2DM,C00026,C00026,Oxoglutaric acid
+T2DM,C00122,C00122,Fumaric acid
+T2DM,C00042,C00042,Succinic acid
+T2DM,C00158,C00158,Citric acid
+T2DM,C00149,C00149,L-Malic acid
+T2DM,C00417,C00417,cis-Aconitic acid
+T2DM,C00121,C00121,D-Ribose
+T2DM,C00257,C00257,D-Gluconic acid
+T2DM,C00258,C00258,Glyceric acid
+T2DM,C00191,C00191,D-Glucuronic acid
+T2DM,C00159,C00159,D-Mannose
+T2DM,C00984,C00984,D-Galactose
+T2DM,C00818,C00818,Glucaric acid
+T2DM,C00879,C00879,Galactaric acid
+T2DM,C01620,C01620,Threonic acid
+T2DM,C00072,C00072,Ascorbic acid
+T2DM,C00383,C00383,Malonic acid
+T2DM,C06423,C06423,Caprylic acid
+T2DM,C00489,C00489,Glutaric acid
+T2DM,C00245,C00245,Taurine
+T2DM,C00082,C00082,Tyrosine
+T2DM,C00156,C00156,4-Hydroxybenzoic acid
+T2DM,C18043,C18043,Cholesterol sulfate
+T2DM,C00327,C00327,Citrulline
+T2DM,C00437,C00437,N-Acetylornithine
+T2DM,C00064,C00064,Glutamine
+T2DM,C00049,C00049,Aspartic acid
+T2DM,C00025,C00025,Glutamic acid
+T2DM,C00077,C00077,Ornithine
+T2DM,C00062,C00062,Arginine
+T2DM,C00624,C00624,N-Acetyglutamic acid
+T2DM,C00262,C00262,Hypoxanthine
+T2DM,C00366,C00366,Uric acid
+T2DM,C00385,C00385,Xanthine
+T2DM,C00048,C00048,Glyoxylic acid
+T2DM,C00209,C00209,Oxalic acid
+T2DM,C00299,C00299,Uridine
+T2DM,C00380,C00380,Cytosine
+T2DM,C00475,C00475,Cytidine
+T2DM,C02067,C02067,Pseudouridine
+T2DM,C02170,C02170,Methylmalonic acid
+T2DM,C01013,C01013,3-Hydroxypropionic acid
+T2DM,C00106,C00106,Uracil
+T2DM,C01042,C01042,N-acetyl-aspartic acid
+T2DM,C00041,C00041,Alanine
+T2DM,C00334,C00334,Gamma-aminobutyric acid
+T2DM,C00152,C00152,Asparagine
+T2DM,C00109,C00109,2-Ketobutyric acid
+T2DM,C00065,C00065,Serine
+T2DM,C00188,C00188,Threonine
+T2DM,C00300,C00300,Creatine
+T2DM,C00581,C00581,Guanidoacetic acid
+T2DM,C00078,C00078,Tryptophan
+T2DM,C00114,C00114,Choline
+T2DM,C00168,C00168,Hydroxypyruvic acid
+T2DM,C00719,C00719,Betaine
+T2DM,C01026,C01026,"N,N-Dimethylglycine"
+T2DM,C00170,C00170,5'-Methylthioadenosine
+T2DM,C00491,C00491,Cystine
+T2DM,C02356,C02356,alpha-Aminobutyric acid
+T2DM,C03145,C03145,N-Formyl-L-methionine
+T2DM,C00506,C00506,Cysteic acid
+T2DM,C00073,C00073,Methionine
+T2DM,C00021,C00021,S-Adenosylhomocysteine
+T2DM,C00979,C00979,O-Acetylserine
+T2DM,C00141,C00141,Alpha-ketoisovaleric acid
+T2DM,C00183,C00183,Valine
+T2DM,C00233,C00233,Ketoleucine
+T2DM,C00123,C00123,Leucine
+T2DM,C00407,C00407,Isoleucine
+T2DM,C00164,C00164,Acetoacetic acid
+T2DM,C00408,C00408,Pipecolic acid
+T2DM,C00956,C00956,Aminoadipic acid
+T2DM,C02727,C02727,N6-Acetyl-L-lysine
+T2DM,C03196,C03196,L-2-Hydroxyglutaric acid
+T2DM,C00431,C00431,5-Aminopentanoic acid
+T2DM,C00322,C00322,Oxoadipic acid
+T2DM,C00047,C00047,Lysine
+T2DM,C00791,C00791,Creatinine
+T2DM,C01035,C01035,4-Guanidinobutanoic acid
+T2DM,C02946,C02946,4-Acetamidobutanoic acid
+T2DM,C00315,C00315,Spermidine
+T2DM,C00750,C00750,Spermine
+T2DM,C01157,C01157,Hydroxyproline
+T2DM,C03771,C03771,2-Oxoarginine
+T2DM,C00134,C00134,Putrescine
+T2DM,C00148,C00148,L-Proline
+T2DM,C00785,C00785,Urocanic acid
+T2DM,C01152,C01152,1-Methylhistidine
+T2DM,C00386,C00386,Carnosine
+T2DM,C00135,C00135,Histidine
+T2DM,C00146,C00146,Phenol
+T2DM,C00355,C00355,Dopa
+T2DM,C01829,C01829,Thyroxine
+T2DM,C03758,C03758,Dopamine
+T2DM,C05600,C05600,Ethylmalonic Acid
+T2DM,C06048,C06048,Hydroxyisocaproic acid
+T2DM,C05593,C05593,3-Hydroxyphenylacetic acid
+T2DM,C03519,C03519,N-Acetyl-L-phenylalanine
+T2DM,C04148,C04148,Phenylacetylglutamine
+T2DM,C05332,C05332,Phenylethylamine
+T2DM,C07086,C07086,Phenylacetic acid
+T2DM,C00079,C00079,Phenylalanine
+T2DM,C00328,C00328,Kynurenine
+T2DM,C00632,C00632,3-Hydroxyanthranilic acid
+T2DM,C00780,C00780,Serotonin
+T2DM,C00954,C00954,Indoleacetic Acid
+T2DM,C01598,C01598,Melatonin
+T2DM,C01717,C01717,Kynurenic acid
+T2DM,C02470,C02470,Xanthurenic acid
+T2DM,C05660,C05660,5-Methoxyindoleacetate
+T2DM,C00493,C00493,Shikimic acid
+T2DM,C00587,C00587,3-Hydroxybenzoic acid
+T2DM,C00864,C00864,Pantothenic acid
+T2DM,C01879,C01879,Pyroglutamic acid
+T2DM,G13035,G13035,2-Hydroxycaproic acid
+T2DM,C01996,C01996,Acetylcholine
+T2DM,C04438,C04438,"5,6-Dihydrouridine"
+T2DM,C00319,C00319,Sphingosine
+T2DM,C00836,C00836,Sphinganine
+T2DM,C01120,C01120,Sphinganine-1-phosphate
+T2DM,C01120__2,C01120,Sphinganine 1-phosphate
+T2DM,C06124,C06124,Sphingosine-1-phosphate
+T2DM,C06124__2,C06124,Sphingosine 1-phosphate
+T2DM,C00160,C00160,Glycolate
+T2DM,C03548,C03548,2-Hydroxy-3-methylbutyric acid
+T2DM,C05984,C05984,2-Hydroxybutyric acid
+T2DM,C00163,C00163,Propionic acid
+T2DM,C00246,C00246,Butyric acid
+T2DM,C01089,C01089,3-Hydroxybutyric acid
+T2DM,C06144,C06144,N-Acetyl-L-alanine
+T2DM,C00847,C00847,4-Pyridoxic acid
+T2DM,C04690,C04690,Acetylglycine
+T2DM,C00153,C00153,Niacinamide
+T2DM,C02918,C02918,1-Methylnicotinamide
+T2DM,C05842,C05842,N1-Methyl-2-pyridone-5-carboxamide
+T2DM,C05944,C05944,Pantothenol
+T2DM,C00500,C00500,Biliverdin
+T2DM,C03029,C03029,3-Hydroxysebacic acid
+T2DM,C05781,C05781,Indoxyl sulfate
+T2DM,C05784,C05784,Phenylacetylglutamine(PAGln)
+T2DM,C05797,C05797,Isocaproic acid
